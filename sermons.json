@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "updated": "2025-09-20T00:00:00Z",
+  "items": [
+    {
+      "id": "used_to_the_glory",
+      "title": "The Danger of Getting Used to the Glory",
+      "description": "A full sermon manuscript calling the church back from Ichabod to glory.",
+      "file": "sermons/usedtotheglory.md",
+      "scriptures": [ "1 Samuel 4:21" ],
+      "tags": [ "repentance", "glory", "warning" ]
+    }
+  ]
+}
