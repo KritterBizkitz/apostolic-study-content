@@ -9,6 +9,16 @@
       "file": "studies/john_5_1_3.md",
       "scriptures": [ "John 5:1", "John 5:2", "John 5:3" ],
       "tags": [ "gospels", "healing" ]
+    },
+
+    {
+      "id": "howtostudy",
+      "title": "How to Study the Bible",
+      "description": "Practical tools for rightly dividing the word, observation, interpretation, application.",
+      "file": "studies/howtostudy.md",
+      "scriptures": [ "2 Timothy 2:15", "Acts 17:11", "Psalm 119:105" ],
+      "tags": [ "study", "discipleship" ]
     }
+
   ]
 }
